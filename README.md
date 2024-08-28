@@ -1,4 +1,4 @@
-Access the project:- "https://drive.google.com/file/d/1GXARiHxi9LazmrAJebjyOCev7rV5JKNS/view?usp=sharing"
+Access the project [documents](https://drive.google.com/drive/folders/1pIKDpW2sVKmykjn86cHmb9FqO_X3o7us?usp=sharing) here.
 
 # Zomato Sales Analysis Dashboard - Power BI
 
