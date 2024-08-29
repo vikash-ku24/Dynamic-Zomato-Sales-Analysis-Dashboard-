@@ -81,7 +81,7 @@ This Power BI project focuses on creating an insightful and interactive dashboar
 - Enabled seamless navigation between different dashboards for a smooth user experience.
 
 ## How to Use
-1. Clone the repository to your local machine.
+1. Use the [link](https://drive.google.com/drive/folders/1pIKDpW2sVKmykjn86cHmb9FqO_X3o7us?usp=sharing) mentioned above to download the project files.
 2. Open the Power BI file (`.pbix`) to explore the dashboard and its interactive features.
 3. Use the slicers and filters to customize your data view.
 4. Navigate between different pages using the provided image links or dropdown slicers.
